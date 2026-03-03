@@ -1,7 +1,7 @@
 {
     "keyboard_name": "rajcinapad",
-    "manufacturer": "You",
-    "maintainer": "you",
+    "manufacturer": "rajcina/alex",
+    "maintainer": "rajcina/alex",
     "processor": "RP2040",
     "bootloader": "rp2040",
     "usb": {
@@ -42,4 +42,5 @@
             ]
         }
     }
+
 }
